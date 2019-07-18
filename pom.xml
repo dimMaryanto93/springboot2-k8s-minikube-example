@@ -37,6 +37,10 @@
             <id>repository.dimas-maryanto.com</id>
             <url>http://repository.dimas-maryanto.com:8081/repository/maven-releases/</url>
         </repository>
+        <snapshotRepository>
+            <id>repository.dimas-maryanto.com</id>
+            <url>http://repository.dimas-maryanto.com:8081/repository/maven-snapshots/</url>
+        </snapshotRepository>
     </distributionManagement>
 
     <dependencies>
